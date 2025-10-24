@@ -36,14 +36,14 @@ if uploaded_file and query:  # Removed youtube_link check
     try:
         with st.spinner("Extracting text..."):
             text = extract_text(uploaded_file)  # Simplified
-        st.success("✅ Text extracted!")
+        st.success("✅ Text extracted by CHARAN!")
 
         # ... rest of the code stays the same
         with st.spinner("Splitting text into chunks..."):
             chunks = split_text(text)
         st.info(f"📦 Text split into {len(chunks)} chunks.")
 
-        with st.spinner("Creating knowledge base..."):
+        with st.spinner("Creating knowledge base by CHARAN..."):
             vectorstore = create_vector_store(chunks)
         st.success("🗄 Knowledge base ready!")
 
