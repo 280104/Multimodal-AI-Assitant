@@ -14,7 +14,8 @@ Here’s your copy-ready README 👇
 
 ## 📸 Overview
 
-![App Preview]("C:\Users\Lenovo\OneDrive\Pictures\Screenshots\Screenshot 2025-10-24 195809.png")
+![App Preview](<img width="1919" height="909" alt="app_preview" src="https://github.com/user-attachments/assets/7467f7ee-e660-4d2b-a75b-2e4cb200bc82" />
+)
 ![App Preview](assets/app_ui_preview.png)
 ![App Preview](assets/app_ui_preview.png)
 *(↑ Replace this with your screenshot of the Streamlit interface.)*
