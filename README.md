@@ -1,11 +1,3 @@
-Perfect — let’s make the **final polished README.md** version:
-Readable, visual, with sample screenshots (where you’ll paste yours).
-Everything explained with examples and real commands.
-
-Here’s your copy-ready README 👇
-
----
-
 # 🧠 Multimodal AI Assistant
 
 *A Streamlit-based intelligent system that extracts, understands, and answers questions from any kind of file.*
@@ -14,11 +6,9 @@ Here’s your copy-ready README 👇
 
 ## 📸 Overview
 
-![App Preview](<img width="1919" height="909" alt="app_preview" src="https://github.com/user-attachments/assets/7467f7ee-e660-4d2b-a75b-2e4cb200bc82" />
-)
-![App Preview](assets/app_ui_preview.png)
 ![App Preview](app_preview.png)
-*(↑ Replace this with your screenshot of the Streamlit interface.)*
+![App Preview](app_preview2.png)
+![App Preview](app_preview3.png)
 
 This app combines **OCR**, **Speech-to-Text**, and **Retrieval-Augmented Generation (RAG)** to process and reason over text, audio, video, and images.
 
@@ -214,39 +204,6 @@ Get-ChildItem -Recurse -File -Filter "*.pyc" | Remove-Item -Force
 Remove-Item -Recurse -Force db
 ```
 
----
-
-## 🧾 .gitignore (place this in root)
-
-```gitignore
-# Byte-compiled / cache
-__pycache__/
-*.pyc
-
-# Virtual environment
-.venv/
-
-# Local database
-db/
-
-# Media
-*.mp3
-*.mp4
-*.wav
-*.jpg
-*.jpeg
-*.png
-
-# Logs
-*.log
-
-# System files
-.DS_Store
-Thumbs.db
-```
-
----
-
 ## 🧠 Troubleshooting
 
 | Problem                        | Cause                         | Fix                                          |
@@ -308,6 +265,4 @@ Built using:
 | YouTube Summarization | `assets/yt_summarize_example.png` | Example query       |
 | Folder Structure      | `assets/folder_structure.png`     | Developer reference |
 
----
 
-Would you like me to include **example screenshots placeholders** (empty boxes you can paste into), or generate sample visuals (like a fake app preview + folder diagram) that you can actually attach in the `assets/` folder?
