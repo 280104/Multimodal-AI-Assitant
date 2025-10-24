@@ -1,0 +1,10 @@
+pandas
+numpy
+pymupdf
+python-docx
+python-pptx
+markdown
+langchain
+chromadb
+google-generativeai
+streamlit

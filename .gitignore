@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode
+.vscode/
+
+# Virtual environment
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
+
+# Large model/audio/video files
+*.mp3
+*.mp4
+*.wav
+yt_audio*
+*.zip
+*.7z
+
+# Database or vector store
+db/
+*.sqlite3
+
+# Logs
+*.log
