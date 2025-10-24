@@ -266,3 +266,7 @@ Built using:
 | Folder Structure      | `assets/folder_structure.png`     | Developer reference |
 
 
+## For More Information
+*Contact* -- saisricharankolli@gmail.com
+*Linkedin* -- linkedin.com/in/charan-kolli/
+
