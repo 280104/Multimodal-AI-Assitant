@@ -8,3 +8,5 @@ langchain
 chromadb
 google-generativeai
 streamlit
+ffmpeg-python
+import whisper
