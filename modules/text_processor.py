@@ -4,7 +4,7 @@ import fitz  # PyMuPDF
 import docx
 from pptx import Presentation
 import markdown
-import whisper
+#import whisper
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 # --- Whisper model (load once) ---
